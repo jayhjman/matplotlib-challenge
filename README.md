@@ -16,7 +16,7 @@
 
 All results can seen below, as well as, reviewed in the [Juypter Notebook](pymaceuticals.ipynb)
 
-1. Removing the mouse
+1. Removing the mouse with duplciated data
 
    - Count before
 
@@ -26,7 +26,15 @@ All results can seen below, as well as, reviewed in the [Juypter Notebook](pymac
 
    ![Count Before](images/unique_mice_after_clean.png)
 
-1. Result 2
+1. Summary Statistics
+
+   - With Series
+
+   ![Series](images/sumary_series.png)
+
+   - With Aggregation
+
+   ![Aggregation](images/summary_agg.png)
 
 ## Observations
 
