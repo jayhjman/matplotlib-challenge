@@ -36,6 +36,16 @@ All results can seen below, as well as, reviewed in the [Juypter Notebook](pymac
 
    ![Aggregation](images/summary_agg.png)
 
+1. Bar Charts - Total Number of Unique Mice By Regimen
+
+   - With Pandas
+
+   ![Pandas](images/pie_chart_pandas.png)
+
+   - With PyPlot
+
+   ![PyPlot](images/pie_chart_pyplot.png)
+
 ## Observations
 
 1. Observation 1
