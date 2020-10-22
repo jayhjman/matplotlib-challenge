@@ -1,6 +1,6 @@
 # Pymaceuticals
 
-- **_Pymaceuticals_** - A [Juypter Notebook](pymaceuticals.ipynb)
+- **_Pymaceuticals_** - A [Juypter Notebook](pymaceuticals.ipynb) The purpose of this study was to compare the performance of Pymaceuticals' drug of interest, Capomulin, versus the other treatment regimens. You have been tasked by the executive team to generate all of the tables and figures needed for the technical report of the study. The executive team also has asked for a top-level summary of the study results.
 
 ## Files
 
@@ -16,7 +16,15 @@
 
 All results can seen below, as well as, reviewed in the [Juypter Notebook](pymaceuticals.ipynb)
 
-1. Result 1
+1. Removing the mouse
+
+   - Count before
+
+   ![Count Before](images/unique_mice_before_clean.png)
+
+   - Count After (1 mouse dropped out)
+
+   ![Count Before](images/unique_mice_after_clean.png)
 
 1. Result 2
 
