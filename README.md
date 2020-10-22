@@ -70,6 +70,14 @@ All results can seen below, as well as, reviewed in the [Juypter Notebook](pymac
 
    ![Line](images/line_chart.png)
 
+1. Scatter Chart - Average Tumor Volume vs. Mouse Weight for the Capomulin
+
+   ![Scatter Weight](images/scatter_chart.png)
+
+1. Correlation coefficient and linear regression
+
+   ![Correlation](images/correlation.png)
+
 ## Observations
 
 1. Observation 1
