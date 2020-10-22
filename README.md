@@ -62,9 +62,13 @@ All results can seen below, as well as, reviewed in the [Juypter Notebook](pymac
 
    ![Outliers](images/outliers_table.png)
 
-1. Tumor Volume by Treatment for Mice
+1. Box Plot - Tumor Volume by Treatment for Mice
 
    ![BoxPlot](images/boxplot_chart.png)
+
+1. Line Chart - Tumor Volume vs. Timepoint for mouse x401 with Capomulin
+
+   ![Line](images/line_chart.png)
 
 ## Observations
 
