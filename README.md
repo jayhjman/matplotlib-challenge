@@ -40,6 +40,16 @@ All results can seen below, as well as, reviewed in the [Juypter Notebook](pymac
 
    - With Pandas
 
+   ![Pandas](images/bar_chart_pandas.png)
+
+   - With PyPlot
+
+   ![PyPlot](images/bar_chart_pyplot.png)
+
+1. Pie Charts - Distribution of Mice Sexes
+
+   - With Pandas
+
    ![Pandas](images/pie_chart_pandas.png)
 
    - With PyPlot
