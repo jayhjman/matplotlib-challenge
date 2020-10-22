@@ -28,7 +28,7 @@ All results can seen below, as well as, reviewed in the [Juypter Notebook](pymac
 
 ## Execution
 
-1. The assumption is that you have a working Python 3.6, Jupyter Notebook 6.1.4 and Pandas 1.0.5
+1. The assumption is that you have a working Python 3.6, Jupyter Notebook 6.1.4, Pandas 1.0.5, matplotlib 3.2.2, scipy 1.5.0, and numpy 1.18.5
 1. Clone the [`git repository`](https://github.com/jayhjman/matplotlib-challenge) for this project
 1. Change into the [`repository directory`](https://github.com/jayhjman/matplotlib-challenge) the [`pymaceuticals.ipynb`](pymaceuticals.ipynb) will be in the top level directory, no need to change to any sub-directory
 1. Execute `jupyter notebook` via command line
