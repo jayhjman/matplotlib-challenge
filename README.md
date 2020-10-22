@@ -30,7 +30,7 @@ All results can seen below, as well as, reviewed in the [Juypter Notebook](pymac
 
    - With Series
 
-   ![Series](images/sumary_series.png)
+   ![Series](images/summary_series.png)
 
    - With Aggregation
 
