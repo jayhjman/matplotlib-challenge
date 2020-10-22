@@ -74,9 +74,13 @@ All results can seen below, as well as, reviewed in the [Juypter Notebook](pymac
 
    ![Scatter Weight](images/scatter_chart.png)
 
-1. Correlation coefficient and linear regression
+1. Correlation coefficient and Linear regression
 
    ![Correlation](images/correlation.png)
+
+1. Scatter Chart w/ Linear Regression - Average Tumor Volume vs. Mouse Weight for the Capomulin
+
+   ![Scatter Linear Weight](images/scatter_linear_chart.png)
 
 ## Observations
 
