@@ -56,6 +56,12 @@ All results can seen below, as well as, reviewed in the [Juypter Notebook](pymac
 
    ![PyPlot](images/pie_chart_pyplot.png)
 
+1. Quartiles and Outliers
+
+   - Created a dataframe of the four regimens
+
+   ![Outliers](images/outliers_table.png)
+
 ## Observations
 
 1. Observation 1
