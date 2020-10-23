@@ -82,11 +82,9 @@ All results can seen below, as well as, reviewed in the [Juypter Notebook](pymac
 
    ![Scatter Linear Weight](images/scatter_linear_chart.png)
 
-## Observations
+## Observations and Insights
 
-1. Observation 1
-
-1. Observation 2
+Please see the top of [`pymaceuticals.ipynb`](pymaceuticals.ipynb) for comments on observations and insights
 
 ## Execution
 
